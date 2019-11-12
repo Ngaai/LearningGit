@@ -1,0 +1,7 @@
+GIT - VERSION CONTROL SYSTEM.
+Stores files and history of those files.
+alternatives - subversion , mercurial,perforce.
+Linux and git was created by Linus Torvald 
+github -free online source code hosting platform. others include ,bitbucket,gitlab - online repositories for code/file sharing.
+
+
