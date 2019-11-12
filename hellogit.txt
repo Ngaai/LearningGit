@@ -4,4 +4,25 @@ alternatives - subversion , mercurial,perforce.
 Linux and git was created by Linus Torvald 
 github -free online source code hosting platform. others include ,bitbucket,gitlab - online repositories for code/file sharing.
 
+git init -intialiaze a git repository.
+working directory - git init
+    |
+ (stages files- git add .  or  git add <filename >the dot means add all files.
+stage
+     | 
+ To save - git commit -m  "First Commit"
+head - snap shot
 
+"
+…or create a new repository on the command line
+echo "# test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Ngaai/test.git
+git push -u origin master
+…or push an existing repository from the command line
+git remote add origin https://github.com/Ngaai/test.git
+git push -u origin master"
+
+google atlassian git cheatsheet.
